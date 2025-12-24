@@ -1,0 +1,160 @@
+{
+  "title": "Rose App",
+  "header": {
+    "nav": {
+      "home": "Home",
+      "products": "Products",
+      "categories": "Categories",
+      "occasions": "Occasions",
+      "contact": "Contact",
+      "about": "About"
+    },
+    "top-nav": {
+      "search-placeholder": "What awesome gift are you looking for?",
+      "login": "Login",
+      "locale-button": "العربية",
+      "hello": "Hello",
+      "profile": "My Profile",
+      "addresses": "My Addresses",
+      "orders": "My Orders",
+      "dashboard": "Dashboard",
+      "logout": "Log out"
+    }
+  },
+  "footer": {
+    "title": "Discover our website",
+    "links": {
+      "home": "Home",
+      "products": "Products",
+      "categories": "Categories",
+      "occasions": "Occasions",
+      "contact": "Contact",
+      "about": "About",
+      "terms": "Terms & Conditions",
+      "privacy": "Privacy Policy",
+      "faq": "FAQs"
+    }
+  },
+  "forgotPassword": {
+    "title": "Forgot Password",
+    "subtitle": "Don’t worry, we’ll help you recover your account.",
+    "email": "Email address",
+    "placeholder": "you@example.com",
+    "button": "Continue",
+    "loading": "Sending...",
+    "waitMessage": "Please wait until the timer ends before requesting again.",
+    "countdownMessage": "You cannot ask for another OTP right now, please wait for {seconds} seconds",
+    "error": "An error occurred while sending, please try again.",
+    "noAccount": "Don’t have an account?",
+    "createAccount": "Create yours"
+  },
+  "resetPassword": {
+    "title": "Create a new password",
+    "subtitle": "Set a strong password to secure your account.",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "button": "Reset Password",
+    "loading": "Resetting...",
+    "error": "Something went wrong, please try again.",
+    "help": "Need help?",
+    "contact": "Contact us"
+  },
+  "register": {
+    "titleAuth": "Become part of our family!",
+    "confirmPassword": "Confirm Password",
+    "password": "Password",
+    "email": "Email",
+    "firstname": "Firstname",
+    "lastname": "Lastname",
+    "alreadyAccount": "Already have an account?",
+    "login": "Login",
+    "CreateAccount": "Create Account",
+    "gender": "Gender",
+    "phone": "Phone"
+  },
+  "auth": {
+    "login": {
+      "headline": "Welcome back!",
+      "validation": {
+        "email_required": "Your email is required",
+        "email_invalid": "Please enter a valid email address",
+        "password_required": "Your password is required"
+      },
+      "login-form": {
+        "email-label": "Email",
+        "password-label": "Password",
+        "forgot-password": "Forgot your password?",
+        "login-button": "Login"
+      },
+      "register-prompt": "Don’t have an account yet?",
+      "register-link": "Create one now!"
+    }
+  },
+  "price": {
+    "title": "Price",
+    "reset": "Reset",
+    "from": "From",
+    "to": "To",
+    "placeholder": {
+      "min": "0",
+      "max": "1000000"
+    },
+    "error": {
+      "min": "Minimum must be 0 or greater",
+      "max": "Maximum must be 1,000,000 or less",
+      "invalidRange": "Minimum must be less than or equal to maximum"
+    }
+  },
+  "occasions": {
+    "title": "Occasions",
+    "reset": "Reset",
+    "loading": "Loading occasions...",
+    "error": "Failed to load occasions.",
+    "loadingMore": "Loading more…",
+    "scrollToLoad": "Scroll to load more"
+  },
+  "Cart": {
+    "addedSuccess": "{product} was added to your cart successfully!",
+    "addFailed": "Something went wrong. Please try again.",
+    "outOfStock": "Out Of Stock",
+    "addToCart": "Add to cart"
+  },
+  "send-a-new-code": "Send a new code",
+  "verify-otp": "Verify OTP",
+  "need-help": "Need help?",
+  "contact-us": "Contact us",
+  "we-have-sent-a-6-digit-code-to-user-example-com": "We have sent a 6-digit code to user@example.com",
+  "enter-the-otp-code": "Enter the OTP Code",
+  "edit": "Edit",
+  "no-related-products-found": "No related products found.",
+  "related-products": "Related Products",
+  "failed-to-load-related-products": "Failed to load related products",
+  "no-related-products-found-0": "No related products found",
+  "related-products-0": "Related Products",
+  "no-related-products-found-1": "No related products found.",
+  "product-reviews": "Product Reviews",
+  "sign-in": "Sign in",
+  "to-add-a-review": "to add a review.",
+  "your-rating": "Your rating:",
+  "title-0": "Title",
+  "review": "Review",
+  "general-rating": "General rating",
+  "no-related-products-found-2": "No related products found",
+  "rating-is-required": "Rating Is Required",
+  "validation": {
+    "review": {
+      "rating": {
+        "min": "Rating must be at least 1",
+        "max": "Rating cannot exceed 5"
+      },
+      "title": {
+        "required": "Title is required"
+      },
+      "comment": {
+        "required": "Comment is required"
+      }
+    }
+  },
+  "add-review": "Add Review",
+  "sign-in-to-add-review": "Sign in to add review"
+}

@@ -1,0 +1,171 @@
+{
+  "title": "تطبيق روز",
+  "header": {
+    "nav": {
+      "home": "الرئيسية",
+      "products": "المنتجات",
+      "categories": "الفئات",
+      "occasions": "المناسبات",
+      "contact": "تواصل معنا",
+      "about": "عن الشركة"
+    },
+    "top-nav": {
+      "search-placeholder": "ما الهدية الرائعة التي تبحث عنها؟",
+      "login": "تسجيل الدخول",
+      "locale-button": "English",
+      "hello": "مرحباً",
+      "profile": "ملفي الشخصي",
+      "addresses": "عناويني",
+      "orders": "طلباتي",
+      "dashboard": "لوحة التحكم",
+      "logout": "تسجيل الخروج"
+    }
+  },
+  "footer": {
+    "title": "اكتشف موقعنا الإلكتروني",
+    "links": {
+      "home": "الرئيسية",
+      "products": "المنتجات",
+      "categories": "الفئات",
+      "occasions": "المناسبات",
+      "contact": "اتصل بنا",
+      "about": "من نحن",
+      "terms": "الشروط والأحكام",
+      "privacy": "سياسة الخصوصية",
+      "faq": "الأسئلة الشائعة"
+    }
+  },
+  "forgotPassword": {
+    "title": "نسيت كلمة المرور",
+    "subtitle": "لا تقلق، سنساعدك في استعادة حسابك.",
+    "email": "البريد الإلكتروني",
+    "placeholder": "you@example.com",
+    "button": "متابعة",
+    "loading": "جارٍ الإرسال...",
+    "waitMessage": "يرجى الانتظار حتى ينتهي المؤقت قبل إعادة الطلب.",
+    "countdownMessage": "لا يمكنك طلب رمز آخر الآن، يرجى الانتظار لمدة {seconds} ثانية",
+    "error": "حدث خطأ أثناء الإرسال، حاول مرة أخرى.",
+    "noAccount": "ليس لديك حساب؟",
+    "createAccount": "أنشئ حسابك"
+  },
+  "resetPassword": {
+    "title": "إنشاء كلمة مرور جديدة",
+    "subtitle": "قم بتعيين كلمة مرور قوية لحماية حسابك.",
+    "password": "كلمة المرور",
+    "confirmPassword": "تأكيد كلمة المرور",
+    "button": "إعادة التعيين",
+    "loading": "جارٍ التعيين...",
+    "error": "حدث خطأ، حاول مرة أخرى.",
+    "help": "تحتاج مساعدة؟",
+    "contact": "تواصل معنا"
+  },
+  "register": {
+    "titleAuth": "كن جزءًا من عائلتنا",
+    "confirmPassword": "تأكيد كلمة المرور",
+    "password": "كلمة المرور",
+    "email": "البريد الإلكتروني",
+    "firstname": "الاسم الأول",
+    "lastname": "الاسم الأخير",
+    "alreadyAccount": "هل لديك حساب؟",
+    "login": "تسجيل الدخول",
+    "CreateAccount": "إنشاء حساب",
+    "gender": "العمر",
+    "phone": "رقم الهاتف"
+  },
+  "auth": {
+    "login": {
+      "headline": "مرحبًا بعودتك",
+      "validation": {
+        "email_required": "البريد الإلكتروني مطلوب",
+        "email_invalid": "يرجى إدخال بريد إلكتروني صالح",
+        "password_required": "كلمة المرور مطلوبة"
+      },
+      "login-form": {
+        "email-label": "البريد الإلكتروني",
+        "password-label": "كلمة المرور",
+        "forgot-password": "هل نسيت كلمة المرور؟",
+        "login-button": "تسجيل الدخول"
+      },
+      "register-prompt": "ليس لديك حساب بعد؟",
+      "register-link": "أنشئ حسابك الآن!"
+    }
+  },
+  "price": {
+    "title": "السعر",
+    "reset": "إعادة تعيين",
+    "from": "من",
+    "to": "إلى",
+    "placeholder": {
+      "min": "0",
+      "max": "1000000"
+    },
+    "error": {
+      "min": "الحد الأدنى يجب أن يكون 0 أو أكثر",
+      "max": "الحد الأقصى يجب ألا يتجاوز 1,000,000",
+      "invalidRange": "الحد الأدنى يجب أن يكون أقل من أو يساوي الحد الأقصى"
+    }
+  },
+  "occasions": {
+    "title": "المناسبات",
+    "reset": "إعادة التعيين",
+    "loading": "جارٍ تحميل المناسبات...",
+    "error": "فشل تحميل المناسبات.",
+    "loadingMore": "جارٍ تحميل المزيد...",
+    "scrollToLoad": "قم بالتمرير لتحميل المزيد"
+  },
+  "Cart": {
+    "addedSuccess": "تمت إضافة {product} إلى سلة التسوق بنجاح!",
+    "addFailed": "حدث خطأ ما. يرجى المحاولة مرة أخرى.",
+    "outOfStock": "نفذت الكمية",
+    "addToCart": "أضف إلى السلة"
+  },
+  "contact-us": "اتصل بنا",
+  "need-help": "بحاجة إلى مساعدة؟",
+  "verify-otp": "التحقق من كلمة المرور لمرة واحدة (OTP).",
+  "send-a-new-code": "إرسال رمز جديد",
+  "we-have-sent-a-6-digit-code-to-user-example-com": "لقد أرسلنا رمزًا مكونًا من 6 أرقام إلى user@example.com",
+  "enter-the-otp-code": "أدخل رمز OTP",
+  "edit": "حرر",
+  "no-related-products-found": "لم يتم العثور على منتجات مشابهة.",
+  "related-products": "المنتجات ذات الصلة",
+  "failed-to-load-related-products": "فشل في تحميل المنتجات ذات الصلة",
+  "no-related-products-found-0": "لم يتم العثور على منتجات ذات صلة",
+  "related-products-0": "المنتجات ذات الصلة",
+  "no-related-products-found-1": "لم يتم العثور على منتجات ذات صلة.",
+  "product-reviews": "مراجعات المنتج",
+  "sign-in": "تسجيل الدخول",
+  "to-add-a-review": "لإضافة مراجعة.",
+  "your-rating": "تقييمك:",
+  "title-0": "عنوان",
+  "review": "مراجعة",
+  "general-rating": "التقييم العام",
+  "no-related-products-found-2": "لم يتم العثور على منتجات ذات صلة",
+  "rating-is-required": "التقييم مطلوب",
+  "reviews": {
+    "validation": {
+      "rating-is-required-0": "التقييم مطلوب",
+      "rating-must-be-at-least-1": "يجب أن يكون التقييم على الأقل 1",
+      "rating-cannot-exceed-5": "لا يمكن أن يتجاوز التقييم 5",
+      "tittle-is-required": "العنوان مطلوب",
+      "title-is-required": "العنوان مطلوب",
+      "review-is-required": "المراجعة مطلوبة",
+      "comment-is-required": "التعليق مطلوب"
+    }
+  },
+  "validation": {
+    "review": {
+      "rating": {
+        "min": "يجب أن يكون التقييم على الأقل 1",
+        "max": "لا يمكن أن يتجاوز التقييم 5"
+      },
+      "title": {
+        "required": "العنوان مطلوب"
+      },
+      "comment": {
+        "required": "التعليق مطلوب"
+      }
+    }
+  },
+  "add-review": "أضف مراجعة",
+  "sign-in-to-add-review": "تسجيل الدخول لإضافة مراجعة"
+}
