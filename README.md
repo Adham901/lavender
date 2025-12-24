@@ -1,4 +1,4 @@
-# Rdashboars
+# lavender
 
 **Rose App** is a modern flower shopping platform built with Next.js 14.  
 It allows users to buy flowers for many occasions such as birthdays, weddings, engagements, and anniversaries through a smooth and elegant user experience.  
